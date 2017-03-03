@@ -34,3 +34,5 @@ createVue(VueComponentName)
 ```
 
 最后重复该步骤就可以生成多页面应用了
+
+更详细的说明可查看我的blog文章[基于vue-cli的webpack模板构建的一个多页应用模板](http://spiritholy.github.io/2017/03/03/%E5%9F%BA%E4%BA%8Evue-cli%E7%9A%84webpack%E6%A8%A1%E6%9D%BF%E6%9E%84%E5%BB%BA%E7%9A%84%E4%B8%80%E4%B8%AA%E5%A4%9A%E9%A1%B5%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF/)
